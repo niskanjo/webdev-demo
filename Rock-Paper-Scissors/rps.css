@@ -1,0 +1,24 @@
+/* Rock-Paper-Scissors */
+#game-container {
+    display: flex;
+    justify-content: center;
+}
+
+.rps-item {
+    padding: 30px;
+    margin: 5%;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: bold;
+}
+
+#btn-rock {
+    background-color: gray;
+}
+
+#btn-paper {
+    background-color: white;
+}
+
+#btn-scissors {
+    background-color: orange;
+}
